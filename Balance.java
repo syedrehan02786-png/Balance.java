@@ -31,6 +31,7 @@ public class Balance {
                                 System.out.println("ur balance is : " + balance);
 
                             }
+                             break;
                             case 4:
                                 System.out.println("exit");
                                 break;
